@@ -2884,6 +2884,7 @@ input.hs-button.primary.large{
 /* Styles for Student Profile - from desmond.css */
 
 .ib_main_header {
+  position: relative;
   padding: 0;
   margin-top: 30px;
   font-size: 40px;
